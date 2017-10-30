@@ -1,8 +1,4 @@
-# Making Wordpress Faster
-
-Let's make our Wordpress site smoking fast!
-
-## PHP version
+# Update PHP version to 7.x
 
 PHP 7.x is faster than previous versions. Make sure your host offers PHP 7.x. Not every plugin will work on PHP 7.x, but there is likely an alternative that does the task that does work with PHP 7.x.
 
