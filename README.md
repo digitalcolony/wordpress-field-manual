@@ -23,3 +23,15 @@ A collection of tips and tricks I've learned about Wordpress in the last decade.
 * SPAM
 * Subscribe
 
+## Promote
+
+* RSS
+* XML Sitemap
+* HTML Sitemap
+* Google Webmaster, Bing
+* Google Analytics
+* Social Accounts + Sharing
+* IFTTT, Auto-Share
+* OneSignal
+
+

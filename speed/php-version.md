@@ -30,7 +30,7 @@ But before you upgrade, test that the themes and plugins you are using are compa
 
 Many webhosts offer a way for customers to change their PHP versions without contacting support. If your host offers cPanel, select To upgrade to a higher version, go to cPanel and select Manage PHP Versions. There you can adjust the PHP version for your website.
 
-@todo ScreenShot
-@body Make screenshot of cPanel instructions
+[//]: <> (@todo ScreenShot)
+[//]: <> (@body Make screenshot of cPanel instructions)
 
 After upgrading the site, test several pages on both the main website and the WordPress Admin. If you get any 500 Server Errors, rollback to the previous working version. Either your theme or one of your plugins is causing issues. More troubleshooting will be required.
