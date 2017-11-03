@@ -34,4 +34,7 @@ A collection of tips and tricks I've learned about Wordpress in the last decade.
 * IFTTT, Auto-Share
 * OneSignal
 
+## Other
 
+* Broken Links
+* Handling Redirects
